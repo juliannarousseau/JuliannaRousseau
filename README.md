@@ -1,5 +1,5 @@
 
-<h2>Hey, I'm Juliana!</h2>
+<h2>Hey, I'm Julianna!</h2>
 
 ![cover](https://i.imgur.com/3AaMgCu.jpg)
 
@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact: I'm a formed [**Game Designer**](https://www.behance.net/jssalafia) and I used to work in a **PR Agency** focused on [**Games and Esports**](https://www.linkedin.com/company/fdcomunicacao/).
 
-- 📫 You can find out more **about me** at [**Linktr.ee**](https://linktr.ee/juliana.rousseau), you can find more coding studies on [**GitGist**](https://gist.github.com/julianasalafia).
+- 📫 You can find out more **about me** at [**Linktr.ee**](https://linktr.ee/julianna.rousseau), you can find more coding studies on [**GitGist**](https://gist.github.com/juliannarousseau).
 ---
 
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[![trophy](https://github-profile-trophy.vercel.app/?username=julianasalafia&theme=dracula&margin-w=12&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
